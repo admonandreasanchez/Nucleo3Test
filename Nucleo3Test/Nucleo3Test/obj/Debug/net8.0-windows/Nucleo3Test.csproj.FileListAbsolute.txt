@@ -1,0 +1,36 @@
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.exe
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.deps.json
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.runtimeconfig.json
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.dll
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.pdb
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.Form1.resources
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.csproj.GenerateResource.cache
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.AssemblyInfoInputs.cache
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.AssemblyInfo.cs
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.csproj.CoreCompileInputs.cache
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.sourcelink.json
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.dll
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\refint\Nucleo3Test.dll
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.pdb
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.genruntimeconfig.cache
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\ref\Nucleo3Test.dll
+C:\Users\admon\source\repos\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.Properties.Resources.resources
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.exe
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.deps.json
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.runtimeconfig.json
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.dll
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\bin\Debug\net8.0-windows\Nucleo3Test.pdb
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.Form1.resources
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.Properties.Resources.resources
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.csproj.GenerateResource.cache
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.AssemblyInfoInputs.cache
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.AssemblyInfo.cs
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.csproj.CoreCompileInputs.cache
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.sourcelink.json
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.dll
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\refint\Nucleo3Test.dll
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.pdb
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\Nucleo3Test.genruntimeconfig.cache
+C:\Users\admon\OneDrive\Escritorio\Diseño de Software y Aplicativos Móviles\5.Quinto Trimestre\Aplicaciones I\Nucleo3Test\Nucleo3Test\obj\Debug\net8.0-windows\ref\Nucleo3Test.dll
